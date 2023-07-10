@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansgar</h1>
-<h3 align="center">I'm a frontend developer @ [AOE](https://www.aoe.com) </h3>
+<h3 align="center">I'm a frontend developer@AOE </h3>
 
 I'm using Github only for private projects, mostly web-apps built with some new technology i wan't to try out, so don't expect to many finished projects! My recent (04/2022-10/2022) project is a [Bus Departures Dashboard](https://public-transport-radar.hoyer-it.de/) for german districts (it's a mobile only PWA, built with React and hosted on Netlify)
 
